@@ -86,8 +86,8 @@ try {
     <body>
       <!-- Mensagem de erro -->
       <div class="form-content" id="form-erro">
-        <h2>Um erro ocorreu!</h2>
-        <p>Você pode tentar novamente ou enviar direto para <?php echo $email_envio; ?></p>
+        <h2>Obrigado por tentar ^-^</h2>
+        <p>Mas nfelizmente o formulário é para testes<?php echo $email_envio; ?></p>
       </div>
     </body>
   </html>
